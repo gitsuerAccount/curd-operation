@@ -8,4 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'curd';
   title1 = 'curd';
+  title2 = 'curd';
 }
